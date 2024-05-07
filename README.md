@@ -23,12 +23,12 @@ Yet another Telegram Voice Recognition bot but using [vosk](https://github.com/a
 
 2. Clone the repo
    ```
-   git clone https://github.com/samadii/Transcript-Extractor-Bot
+   git clone https://github.com/RoarGamingTG1/TeamStar
    ```
 
 3. Enter the directory
    ```
-   cd Transcript-Extractor-Bot
+   ROAR GAMING TG
    ```
   
 4. Install all requirements using pip.
@@ -43,3 +43,4 @@ Yet another Telegram Voice Recognition bot but using [vosk](https://github.com/a
 
 ### Devs: 
 - [@samadii](https://github.com/samadii)
+- 
